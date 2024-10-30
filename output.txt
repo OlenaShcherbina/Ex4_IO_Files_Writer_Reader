@@ -1,0 +1,5 @@
+Exercise 4:
+- read from the keyboard
+- write the input into the file
+- read from the file
+- print the content on the console
